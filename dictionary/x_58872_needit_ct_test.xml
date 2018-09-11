@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="CT test" max_length="40" name="x_58872_needit_ct_test" type="collection"/>
+</database>
